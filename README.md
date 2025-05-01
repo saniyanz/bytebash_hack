@@ -67,8 +67,7 @@ Phishing emails are a major cybersecurity threat, tricking users into sharing se
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
-   cd phishing-detector
+   git clone https://github.com/saniyanz/bytebash_hack.git
    ```
 2. **Install Dependencies**:
    ```bash
