@@ -278,7 +278,7 @@ def main():
     parser.add_argument(
         '--threshold',
         type=float,
-        default=0.95,
+        default=0.98,
         help='Prediction threshold for phishing probability (0.0 to 1.0, default: 0.95)'
     )
     
