@@ -1,7 +1,7 @@
 # Phishing Email Detector
 
 ## Overview
-The **Phishing Email Detector** is a Python-based command-line tool designed to classify emails as `PHISHING` or `LEGIT` with a focus on minimizing false positives (legitimate emails misclassified as phishing). Built for a hackathon, this project leverages machine learning to achieve high accuracy in detecting phishing emails.
+The **Phishing Email Detector** is a Python-based command-line tool designed to classify emails as `PHISHING` or `LEGIT`. This project leverages machine learning to achieve high accuracy in detecting phishing emails.
 
 The tool processes email text (subject and body), extracts text and metadata features, and uses an XGBoost classifier to make predictions. It’s user-friendly, supports batch testing, and includes debug output for transparency.
 
